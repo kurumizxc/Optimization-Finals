@@ -1,9 +1,9 @@
 # NEWTON-RAPHSON FOR OPTIMIZATION
 
-- Team Member (Last Name, First Name M.)
-- Team Member (Last Name, First Name M.)
-- Team Member (Last Name, First Name M.)
-- Team Member (Last Name, First Name M.)
+- Team Member (Sapasap, John Paul T.)
+- Team Member (Hallares, Kyle Eron P.)
+- Team Member (Canete, Gem Win)
+- Team Member (Togonon, Lord Patrick Raizen G.)
 
 ## Project Overview
 
