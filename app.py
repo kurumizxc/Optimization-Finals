@@ -6,7 +6,7 @@ import sympy as sp
 
 """Members"
        - John Paul Sapasap
-       - Kyle Erom Hallares
+       - Kyle Eron Hallares
        - Gem Win Canete
        - Lord Patrick Raizen Togonon"""
 
